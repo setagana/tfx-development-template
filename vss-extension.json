@@ -7,9 +7,6 @@
     "tags": [
         "<<ARRAY OF MARKETPLACE TAGS>>"
     ],
-    "galleryFlags": [
-        "Public"
-    ],
     "content": {
         "license": {
           "path": "LICENSE"

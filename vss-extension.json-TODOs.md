@@ -13,3 +13,4 @@ TODO: Set `description`
 TODO: Set an array of image objects in `screenshots`
 TODO: Set an array of file objects in `files`
 TODO: Set `contributions.properties.name`
+TODO: Once you're ready to release your task, add "galleryFlags": [ "Public" ] as a top-level property
